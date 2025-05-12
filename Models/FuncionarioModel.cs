@@ -1,9 +1,11 @@
+using System.ComponentModel.DataAnnotations;
 using Funcio.Enums;
 
 namespace Funcio.Models;
 
 public class FuncionarioModel
 {
+    [Key]
     public int Id { get; set; }
     public string Nome { get; set; }
     public string Sobrenome { get; set; }
