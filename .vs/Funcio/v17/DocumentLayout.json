@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|c:\\users\\gustavo passos\\desktop\\develop\\funcio\\funcio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|solutionrelative:funcio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|c:\\users\\gustavo passos\\desktop\\develop\\funcio\\funcio\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|solutionrelative:funcio\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|c:\\users\\gustavo passos\\desktop\\develop\\funcio\\funcio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9CAC33-4B38-431A-857F-8EDFF4A395D5}|Funcio\\Funcio.csproj|solutionrelative:funcio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\ServiceResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\FuncionarioModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\TurnoEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\DepartamentoEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Controllers\\FuncionarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\DataContext\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\.gitignore",
+              "RelativeDocumentMoniker": "Funcio\\.gitignore",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\.gitignore",
+              "RelativeToolTip": "Funcio\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-12T14:04:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Funcio\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Funcio\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:02:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Program.cs",
+              "RelativeDocumentMoniker": "Funcio\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Program.cs",
+              "RelativeToolTip": "Funcio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:02:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:50:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Models\\FuncionarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:50:11.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Enums\\TurnoEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:49:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:50:10.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:49:28.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:48:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\appsettings.json",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:46:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Funcios\\Funcios\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcios\\Funcios\\Program.cs",
+              "RelativeToolTip": "..\\Funcios\\Funcios\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:43:31.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
