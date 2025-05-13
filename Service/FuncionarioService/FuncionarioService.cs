@@ -48,6 +48,9 @@ public class FuncionarioService : IFuncionarioInterface
             await _context.SaveChangesAsync();
             
             serviceResponse.Dados = _context.Funcionarios.ToList();
+            serviceResponse.Mensagem = "Funcionário criado com sucesso!";
+            serviceResponse.Sucesso = true;
+            
         }
         catch (Exception ex)
         {

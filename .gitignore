@@ -1,6 +1,7 @@
 #GU_MAIN
 appsettings.json
 
+appsettings.Development.json
 .vs/
 bin/
 obj/
