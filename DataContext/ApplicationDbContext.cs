@@ -10,8 +10,5 @@ public class ApplicationDbContext : DbContext
     {
         
     }
-    public DbSet<FuncionarioModel> Funcionarios {
-        get;
-        set;
-    }
+    public DbSet<FuncionarioModel> Funcionarios { get; set; }
 }

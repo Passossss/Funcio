@@ -1,5 +1,12 @@
-# Build Folders
+#GU_MAIN
+appsettings.json
+
+.vs/
 bin/
+obj/
+.vs
+# Build Folders
+bin/c
 obj/
 
 # User-specific files
