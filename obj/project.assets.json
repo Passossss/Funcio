@@ -11262,23 +11262,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo Passos\\.nuget\\packages\\": {},
+    "C:\\Users\\gu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Funcio.csproj",
+      "projectUniqueName": "C:\\Users\\gu\\Desktop\\Develop\\Funcio\\Funcio.csproj",
       "projectName": "Funcio",
-      "projectPath": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\Funcio.csproj",
-      "packagesPath": "C:\\Users\\Gustavo Passos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Passos\\Desktop\\Develop\\Funcio\\Funcio\\obj\\",
+      "projectPath": "C:\\Users\\gu\\Desktop\\Develop\\Funcio\\Funcio.csproj",
+      "packagesPath": "C:\\Users\\gu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gu\\Desktop\\Develop\\Funcio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gustavo Passos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
