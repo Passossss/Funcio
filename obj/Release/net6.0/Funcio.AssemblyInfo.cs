@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funcio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aea701c346730ee9bc22879133c7313f325b1be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e06f3b794f9ae526ff736c4635a8f92a06f760")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funcio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funcio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
